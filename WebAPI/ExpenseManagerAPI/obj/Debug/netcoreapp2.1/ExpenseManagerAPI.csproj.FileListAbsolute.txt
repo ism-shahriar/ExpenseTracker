@@ -1,0 +1,14 @@
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\bin\Debug\netcoreapp2.1\ExpenseManagerAPI.deps.json
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\bin\Debug\netcoreapp2.1\ExpenseManagerAPI.runtimeconfig.json
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\bin\Debug\netcoreapp2.1\ExpenseManagerAPI.runtimeconfig.dev.json
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\bin\Debug\netcoreapp2.1\ExpenseManagerAPI.dll
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\bin\Debug\netcoreapp2.1\ExpenseManagerAPI.pdb
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.csprojAssemblyReference.cache
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.csproj.CoreCompileInputs.cache
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.RazorAssemblyInfo.cache
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.RazorAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.AssemblyInfoInputs.cache
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.AssemblyInfo.cs
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.RazorTargetAssemblyInfo.cache
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.dll
+C:\Centennial_Sofware Engineering\Semester 6\COMP306_API and Cloud\Project\ExpenseManager\ExpenseManagerAPI\ExpenseManagerAPI\obj\Debug\netcoreapp2.1\ExpenseManagerAPI.pdb
